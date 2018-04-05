@@ -1,5 +1,5 @@
-title: Ben Balter
-description: Attorney, open source developer, product manager
+title: Standard Meta
+description: Open, Curated, Actionable Information.
 
 lang: en-US
 branch: master
@@ -8,10 +8,6 @@ branch: master
 nav_pages:
   - index.html
   - about.md
-
-# Disqus login information, for comments
-disqus:
-  shortname: DISQUS_USERNAME
 
 # Google Analytics tracking id
 ga_username: UA-xxxxxxxx-x
